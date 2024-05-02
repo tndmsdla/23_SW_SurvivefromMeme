@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: 3efb3c4af30e4f4409798feb4d56d1af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 450
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8373532c0b9374a961aedb0697450e
+      internalID: 1965307568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 450
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105558b302328745878e3832ae75bc7
+      internalID: -1523766990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 450
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968169e40a10ad49b83dce13e3de6d5
+      internalID: -1035079957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 450
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be74209479efb4d8952997170279c6
+      internalID: 1435674522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 450
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5661826bd503c1e4aaf8acdd74c8ad52
+      internalID: 528807273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 450
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56955e3ae68847743aaf5bf27b964657
+      internalID: -1462280809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 450
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ac5dd3a622254993935b1c282c505
+      internalID: 1847596188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 450
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686393b54e2b3c946a69797db0e4ab29
+      internalID: 947292351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 386
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef0d403d2370641ae20c7c1aeb0849
+      internalID: 1934144184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643a49fbdbd8dd449b99fa3c6e550f6c
+      internalID: 393337904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 386
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536cd817f61aebc4fbee955663960861
+      internalID: 236405395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 386
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41938e5cd0ff77c4c94d4cec10fac775
+      internalID: 1079145940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 386
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a484600ba14372845a38a862ed02669b
+      internalID: 1585327079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 386
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531087a24f7e2e64a8e503f15e92dda3
+      internalID: -1856186902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 386
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c2a56651cccbd4f98cff086a4ee4e1
+      internalID: -1733493732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 386
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694ddee008ea1245bb580ccfb9f71f7
+      internalID: 1385576386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 322
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242eb2f7f67a68459bca0d5d40b7c0e
+      internalID: -2106067690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac04f780ab5ed4abc89e0e5eb63bc9
+      internalID: 786590645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 322
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85868d3be2247864583b62fe75444bdb
+      internalID: 607239112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e87be62e3df14da046ebd149b3c19
+      internalID: -1805700642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 322
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7539d0d25baf20c4ebe45062f81cb1ac
+      internalID: -1522322025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 322
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a406cb9d6cf24987605abfac4d0e0
+      internalID: 372326830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 322
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e3c517a4a4d14badf0134d408e031
+      internalID: -1938382029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 322
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e1ea12af823f54eabac10ae61f8b8a
+      internalID: -760786855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 258
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5299152508816b42b359c0df09027da
+      internalID: -710464780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 259
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222b1c5f59106245a314d42dbef1f36
+      internalID: 530078473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 258
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ec454d9a6dd34199cce2bbfcd86cd
+      internalID: -2084912720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 258
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed4b78c77cc474885660917acae55c
+      internalID: -1584613669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 258
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8316dc15dd0f6a444bb0c6fb0a93da21
+      internalID: -606830639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 258
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f324608974099418ef3fc4efe56819
+      internalID: 1531367325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 258
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae4c7ce93232c4598a1d6aa22faefa
+      internalID: -332093910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 258
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23df4678ccbad499b2c08ff82666fa
+      internalID: -627779136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 194
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b12c2eb9775e2488a921fb305ce3ff
+      internalID: 426842964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 194
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4719675f248b6644a96720d6abaab328
+      internalID: -1148205090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 194
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff2dda1aaf1304ba5aa6df677fedfe
+      internalID: -791366596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc19b76e0185ea49b84c609d44485c0
+      internalID: 345378431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 194
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5e220e72454134abd218e7ff19fc2a
+      internalID: 2122274638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 194
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb62cfc93b00b46937f980527ac45d
+      internalID: -1356442709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 194
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a8a4245c0d7247ad23404eb629e20
+      internalID: -1853082527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 194
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3595c28be36d124b92ff83ebdea0e0c
+      internalID: -1439125743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b162c6526aaea349aaf9e11e6734a4d
+      internalID: 1474283907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3acb2b1f975474ea0e7b77e72dad03
+      internalID: 1131247594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b6b08f1ca1454dbb151816d12e277
+      internalID: 1779483201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7cd00610422e24f8b1f992b45c5081
+      internalID: 1621175373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 130
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c77bad90a713f4f83ecc473cca77a1
+      internalID: 1550556656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 130
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9322e2bbace343b4592090f73f688eff
+      internalID: -95996787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df17d5982a2334d809a95840f23ea1
+      internalID: 1189637758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 130
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07268eb15b14664da89685a530c082b
+      internalID: -1741404540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be368e530f39d104482c14753947401b
+      internalID: -2117053640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45bedfc85e5df4f9d0e704ccecdf87
+      internalID: -1892813742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_50
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 67
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad607ebfbf474064b84faa5f04d970fe
+      internalID: 829243398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 67
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09fcb13ab2430844b89230d3e80ffe4
+      internalID: -2038523842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c218a860027646b5ff8940e04de7b
+      internalID: -2047299864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 67
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd931969a51f544b2c2529180d5c1d
+      internalID: 1915278697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 67
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf59ca04a32c3489d1b03c714e5096
+      internalID: 1016827780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_55
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 67
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e97d7830f22194faf86f7b8c35fc85
+      internalID: 807922403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b516351c4f9d844bb547665501e00eb
+      internalID: -1367558261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be681be859af2439af148208d86566
+      internalID: 2094881303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d2abe2c25a4e4fa4c5c46bbdaaa3d
+      internalID: 1210190486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a98c67b127e45489215686220f40ee
+      internalID: -700059592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_60
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf72accb837fc349b0ef3f4060e1e8a
+      internalID: -1460412626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_61
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b665ed3b780b4d45a92b5e802726b5b
+      internalID: -1205330969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8cb07b01bb0e409f9d88bb70fe7fa
+      internalID: 1117908098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potions 64x64 BG transparent RED_63
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5cfa50be0f74147b01d866cf5f2812
+      internalID: 803114730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Potions 64x64 BG transparent RED_50: 829243398
+      Potions 64x64 BG transparent RED_36: 2122274638
+      Potions 64x64 BG transparent RED_31: -627779136
+      Potions 64x64 BG transparent RED_58: 1210190486
+      Potions 64x64 BG transparent RED_22: -1938382029
+      Potions 64x64 BG transparent RED_12: 1585327079
+      Potions 64x64 BG transparent RED_60: -1460412626
+      Potions 64x64 BG transparent RED_61: -1205330969
+      Potions 64x64 BG transparent RED_37: -1356442709
+      Potions 64x64 BG transparent RED_33: -1148205090
+      Potions 64x64 BG transparent RED_34: -791366596
+      Potions 64x64 BG transparent RED_21: 372326830
+      Potions 64x64 BG transparent RED_27: -1584613669
+      Potions 64x64 BG transparent RED_4: 528807273
+      Potions 64x64 BG transparent RED_43: 1621175373
+      Potions 64x64 BG transparent RED_26: -2084912720
+      Potions 64x64 BG transparent RED_52: -2047299864
+      Potions 64x64 BG transparent RED_15: 1385576386
+      Potions 64x64 BG transparent RED_30: -332093910
+      Potions 64x64 BG transparent RED_10: 236405395
+      Potions 64x64 BG transparent RED_63: 803114730
+      Potions 64x64 BG transparent RED_0: 1965307568
+      Potions 64x64 BG transparent RED_39: -1439125743
+      Potions 64x64 BG transparent RED_38: -1853082527
+      Potions 64x64 BG transparent RED_14: -1733493732
+      Potions 64x64 BG transparent RED_5: -1462280809
+      Potions 64x64 BG transparent RED_32: 426842964
+      Potions 64x64 BG transparent RED_41: 1131247594
+      Potions 64x64 BG transparent RED_29: 1531367325
+      Potions 64x64 BG transparent RED_42: 1779483201
+      Potions 64x64 BG transparent RED_54: 1016827780
+      Potions 64x64 BG transparent RED_47: -1741404540
+      Potions 64x64 BG transparent RED_28: -606830639
+      Potions 64x64 BG transparent RED_48: -2117053640
+      Potions 64x64 BG transparent RED_20: -1522322025
+      Potions 64x64 BG transparent RED_49: -1892813742
+      Potions 64x64 BG transparent RED_24: -710464780
+      Potions 64x64 BG transparent RED_35: 345378431
+      Potions 64x64 BG transparent RED_13: -1856186902
+      Potions 64x64 BG transparent RED_11: 1079145940
+      Potions 64x64 BG transparent RED_9: 393337904
+      Potions 64x64 BG transparent RED_19: -1805700642
+      Potions 64x64 BG transparent RED_6: 1847596188
+      Potions 64x64 BG transparent RED_44: 1550556656
+      Potions 64x64 BG transparent RED_53: 1915278697
+      Potions 64x64 BG transparent RED_7: 947292351
+      Potions 64x64 BG transparent RED_3: 1435674522
+      Potions 64x64 BG transparent RED_16: -2106067690
+      Potions 64x64 BG transparent RED_40: 1474283907
+      Potions 64x64 BG transparent RED_18: 607239112
+      Potions 64x64 BG transparent RED_46: 1189637758
+      Potions 64x64 BG transparent RED_23: -760786855
+      Potions 64x64 BG transparent RED_45: -95996787
+      Potions 64x64 BG transparent RED_51: -2038523842
+      Potions 64x64 BG transparent RED_56: -1367558261
+      Potions 64x64 BG transparent RED_59: -700059592
+      Potions 64x64 BG transparent RED_2: -1035079957
+      Potions 64x64 BG transparent RED_8: 1934144184
+      Potions 64x64 BG transparent RED_25: 530078473
+      Potions 64x64 BG transparent RED_57: 2094881303
+      Potions 64x64 BG transparent RED_55: 807922403
+      Potions 64x64 BG transparent RED_62: 1117908098
+      Potions 64x64 BG transparent RED_17: 786590645
+      Potions 64x64 BG transparent RED_1: -1523766990
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
